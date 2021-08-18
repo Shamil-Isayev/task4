@@ -1,0 +1,7 @@
+home/ubuntu/task4/Backup/
+home/ubuntu/task4/Backup/syslog.2.gz
+home/ubuntu/task4/Backup/syslog.3.gz
+home/ubuntu/task4/Backup/syslog.5.gz
+home/ubuntu/task4/Backup/syslog.4.gz
+home/ubuntu/task4/Backup/syslog.7.gz
+home/ubuntu/task4/Backup/syslog.6.gz
